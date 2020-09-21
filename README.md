@@ -1,3 +1,6 @@
+#### Task 1:
+The commentary for task 1 can be found at project root > task-1-commentary.js
+
 #### Running:
 ```bash
 npm install
